@@ -1,0 +1,56 @@
+{
+  "personal_info": {
+    "first_name": "john",
+    "last_name": "doe",
+    "nickname": "johnny",
+    "birth_date": "15061990",
+    "partner_name": "jane",
+    "partner_nickname": "janey",
+    "partner_birth_date": "20081985",
+    "child_name": "alice",
+    "child_nickname": "ali",
+    "child_birth_date": "10122015",
+    "pet_name": "buddy",
+    "company_name": "techcorp",
+    "keywords": ["hacker", "security", "crypto", "python"]
+  },
+  "social_media": {
+    "instagram": "john_doe_90",
+    "facebook": "john.doe.1990",
+    "twitter": "johndoe",
+    "linkedin": "john-doe-security",
+    "github": "johndoe90",
+    "tiktok": "johnnyd90",
+    "youtube": "JohnDoeChannel",
+    "reddit": "johnny90",
+    "discord": "johndoe#1234",
+    "telegram": "johndoe90"
+  },
+  "recon_info": {
+    "email": "john.doe@techcorp.com",
+    "phone_number": "+1234567890",
+    "address": "New York",
+    "university": "MIT",
+    "hobbies": ["gaming", "coding", "cybersecurity", "chess"],
+    "favorite_teams": ["Yankees", "Lakers", "Patriots"],
+    "favorite_movies": ["Matrix", "Hackers", "Tron", "Ghost in Shell"],
+    "favorite_books": ["1984", "Neuromancer", "Snow Crash"],
+    "favorite_games": ["Counter-Strike", "Minecraft", "Cyberpunk", "Deus Ex"]
+  },
+  "options": {
+    "include_special_chars": true,
+    "include_numbers": true,
+    "include_leet_speak": true,
+    "include_dates": true,
+    "include_reversed": true,
+    "include_combinations": true,
+    "include_common_passwords": true,
+    "include_keyboard_patterns": true,
+    "include_brand_names": true,
+    "include_seasons": true,
+    "include_colors": true,
+    "include_phrases": false,
+    "min_length": 6,
+    "max_length": 20
+  }
+}
